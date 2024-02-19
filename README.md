@@ -10,7 +10,11 @@ Se você está buscando por informações práticas, que considerem a segurança
 
 Se você gostaria de uma prévia e saber o conteúdo do e-book LGPD HERO, deixo o link abaixo com as 30 primeiras páginas do e-book.
 
-[![E-book demonstração](https://img.shields.io/badge/Download-Demonstração_do_ebook-color)](https://lgpdhero.com.br/)
+[![E-book demonstração](https://img.shields.io/badge/Download-Demonstração-color)](/assets/files/ebook-lgpd-hero-v4_0_0-demonstracao.pdf)
+
+Se você considera adquirir o material completo, clique no botão abaixo. 
+
+[![Página para aquisição](https://img.shields.io/badge/Site-Página_compra-color)](https://pay.kiwify.com.br/fsk0g8y)
 
 # Materiais de apoio
 
