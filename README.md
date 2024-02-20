@@ -38,7 +38,14 @@ Sinta-se à vontade para entrar em contato conosco por e-mail, para sugerir corr
 
 # Histórico das atualizações
 
-16/02/2024
+19/02/2024 (4.0.1)
+
+- Correção do nome de documento (Mapeamento de Dados (Data Mapping)) para download. Pág.: 173
+- Correção do nome do documento (RIPD) e seu tipo de extensão, para download. Pág.: 210
+- Correção do nome de documento (um modelo de planilha, para mapear o inventário de hardware) e seu tipo de extensão, para download. Pág.: 257
+- Correção do nome de documento (um modelo de planilha, para mapear o inventário dos softwares) e seu tipo de extensão, para download. Pág.: 266
+
+16/02/2024 (4.0.0)
 
 - Lançamento da versão 4.0.0
 
