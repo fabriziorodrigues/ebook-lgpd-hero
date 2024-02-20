@@ -34,7 +34,7 @@ Alguns arquivos de apoio que apresento no conteúdo do e-book, deixo como dispon
 
 No histórico das atualizações abaixo, você poderá acompanhar as atualizações e ajustes realizados no e-book desde o seu lançamento. As atualizações da versão atual ocorrerão até o lançamento da próxima versão, o que pode ocorrer a qualquer momento a partir de 18 meses após o lançamento da versão atual. Ao adquirir o e-book e de acordo com os Termos e Condições presentes no site do e-book, você receberá novos e-books atualizados da versão que adquiriu gratuitamente.
 
-Sinta-se à vontade para entrar em contato conosco por e-mail, para sugerir correções ou melhorias, pelo e-mail ebooks@prismaservices.io
+Sinta-se à vontade para entrar em contato conosco por e-mail, para sugerir correções ou melhorias, pelo e-mail suporte@lgpdhero.com.br
 
 # Histórico das atualizações
 
