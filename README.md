@@ -38,6 +38,12 @@ Sinta-se à vontade para entrar em contato conosco por e-mail, para sugerir corr
 
 # Histórico das atualizações
 
+25/09/2024 (4.0.2)
+
+- Atualização de endereços e links.
+- Revisão e atualização dos 84 documentos editáveis do pacote.
+- Referência ao pacote Privacidade Blindada que o LGPD Hero faz parte.
+  
 19/02/2024 (4.0.1)
 
 - Correção do nome de documento (Mapeamento de Dados (Data Mapping)) para download. Pág.: 173
