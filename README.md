@@ -1,26 +1,28 @@
 <div style="text-align:center"><img src="https://raw.githubusercontent.com/fabriziorodrigues/ebook-lgpd-hero/main/assets/img/lgpd-hero-7.jpg" alt="You are the LGPD HERO" /></div>
 
-# E-book LGPD HERO 🚀
+# Ebook LGPD HERO (pacote PRIVACIDADE BLINDADA) 🚀
 
 Se você chegou a esta página, é porque está procurando meios e informações para realizar uma adequação LGPD com segurança da informação. Então chegou ao lugar certo!
 
-Esta página armazena o histórico de atualizações do único e-book do mercado que te apresenta e explica como realizar uma adequação LGPD com segurança da informação, fugindo dos tradicionais materiais do assunto que tratam a LGPD com assunto simplesmente jurídico ou com explicações superficiais sobre a proteção digital.
+Esta página armazena o histórico de atualizações do único ebook do mercado que te apresenta e explica como realizar uma adequação LGPD com segurança da informação, fugindo dos tradicionais materiais do assunto que tratam a LGPD com assunto simplesmente jurídico ou com explicações superficiais sobre a proteção digital.
 
 Se você está buscando por informações práticas, que considerem a segurança da informação como base para a LGPD, sua busca acaba aqui e uma nova jornada se inicia a partir de agora.
 
-[![Página do E-book](https://img.shields.io/badge/Site-Página_do_ebook-color)](https://lgpdhero.com.br/)
+Ao adquirir o LGPD Hero, você estará adquirindo o pacote PRIVACIDADE BLINDADA, que além do ebook, conta com 84 documentos editáveis que lhe ajudarão a agilizar o processo de adequação, facilitando o seu serviço com diversos templates.
 
-Se você gostaria de uma prévia e saber o conteúdo do e-book LGPD HERO, deixo o link abaixo com as 30 primeiras páginas do e-book.
+[![Página do Ebook](https://img.shields.io/badge/Site-Página_do_ebook-color)](https://lgpdhero.com.br/)
 
-[![E-book demonstração](https://img.shields.io/badge/Download-Demonstração-color)](https://raw.githubusercontent.com/fabriziorodrigues/ebook-lgpd-hero/main/assets/files/ebook-lgpd-hero-v4_0_0-demonstracao.pdf)
+Se você gostaria de uma prévia e saber o conteúdo do ebook LGPD HERO, deixo o link abaixo com as 30 primeiras páginas do ebook.
+
+[![Ebook demonstração](https://img.shields.io/badge/Download-Demonstração-color)](https://raw.githubusercontent.com/fabriziorodrigues/ebook-lgpd-hero/main/assets/files/ebook-lgpd-hero-v4_0_0-demonstracao.pdf)
 
 Se você considera adquirir o material completo, clique no botão abaixo.
 
-[![Página para aquisição](https://img.shields.io/badge/Site-Página_compra-color)](https://pay.kiwify.com.br/fsk0g8y)
+[![Página para aquisição](https://img.shields.io/badge/Site-Página_compra-color)](https://pay.hotmart.com/F95670293W?utm_source=github)
 
 # Materiais de apoio
 
-Alguns arquivos de apoio que apresento no conteúdo do e-book, deixo como disponíveis para download gratuito para todos.
+Alguns arquivos de apoio que apresento no conteúdo do ebook, deixo como disponíveis para download gratuito para todos.
 
 [![Download](https://img.shields.io/badge/Download-Modelo_inventário_hardware_XLSX-blue)](https://raw.githubusercontent.com/fabriziorodrigues/ebook-lgpd-hero/main/assets/files/modelo-inventario-hadware.xlsx)
 
@@ -32,7 +34,7 @@ Alguns arquivos de apoio que apresento no conteúdo do e-book, deixo como dispon
 
 # Atualizações, notas, erratas e correções
 
-No histórico das atualizações abaixo, você poderá acompanhar as atualizações e ajustes realizados no e-book desde o seu lançamento. As atualizações da versão atual ocorrerão até o lançamento da próxima versão, o que pode ocorrer a qualquer momento a partir de 18 meses após o lançamento da versão atual. Ao adquirir o e-book e de acordo com os Termos e Condições presentes no site do e-book, você receberá novos e-books atualizados da versão que adquiriu gratuitamente.
+No histórico das atualizações abaixo, você poderá acompanhar as atualizações e ajustes realizados no ebook desde o seu lançamento. Ao adquirir este pacote, você receberá atualizações gratuitas do ebook e dos documentos editáveis por até 365 dias após a aquisição deste material. Para saber mais, consulte a seção “Perguntas Frequentes” na página do produto.
 
 Sinta-se à vontade para entrar em contato conosco por e-mail, para sugerir correções ou melhorias, pelo e-mail suporte@lgpdhero.com.br
 
@@ -43,6 +45,7 @@ Sinta-se à vontade para entrar em contato conosco por e-mail, para sugerir corr
 - Atualização de endereços e links.
 - Revisão e atualização dos 84 documentos editáveis do pacote.
 - Referência ao pacote Privacidade Blindada que o LGPD Hero faz parte.
+- Atualização do prazo de atualizações do pacote Privacidade Blindada (que inclui o ebook LGPD Hero).
   
 19/02/2024 (4.0.1)
 
